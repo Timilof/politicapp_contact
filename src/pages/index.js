@@ -175,10 +175,10 @@ const IndexPage = () => {
       </Form>
     <div>
       <Styledtext>Mail us at 
-        <a href="mailto:politicapp@gmail.com"> politicapp@gmail.com</a>
+        <a href="mailto:polticapp@gmail.com"> polticapp@gmail.com</a>
       </Styledtext>
       <Styledtext>Follow us on instagram @
-        <a target="_blank" href="www.instagram.com/politicapp">Politicapp</a>
+        <a target="_blank" href="https://www.instagram.com/politicapp_nl">Politicapp</a>
       </Styledtext>
     </div>
 
